@@ -1,5 +1,5 @@
 <h1 align="center">
-  DT Money
+  dt money
 </h1>
 
 <h4 align="center">
@@ -20,7 +20,7 @@
 
 This project was developed with the following technologies:
 
-- **[Next.js](https://reactjs.org/)** - A JavaScript library for building user interfaces.
+- **[React JS](https://reactjs.org/)** - A JavaScript library for building user interfaces.
 
 ## Getting Started
 
