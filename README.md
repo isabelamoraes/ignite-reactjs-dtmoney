@@ -28,10 +28,10 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reacjs-dtmoney.git
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-dtmoney.git
 
 # Go into the repository
-$ cd ignite-reacjs-dtmoney
+$ cd ignite-reactjs-dtmoney
 
 # Install dependencies
 $ yarn
